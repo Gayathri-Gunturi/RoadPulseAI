@@ -8,6 +8,13 @@ RoadPulse AI combines computer vision with a lightweight inspection management s
 
 The application also includes rule-based priority estimates, inspection analytics, and repair status tracking to demonstrate how road damage detection can be connected to a practical maintenance workflow.
 
+## Images
+<img width="1117" height="684" alt="image" src="https://github.com/user-attachments/assets/0a700219-9d41-412f-a730-7770cba809a4" />
+<img width="1190" height="494" alt="image" src="https://github.com/user-attachments/assets/6a857920-6d87-4df9-bd35-d3775963d164" />
+<img width="1495" height="438" alt="image" src="https://github.com/user-attachments/assets/7b600a4c-e1dc-4d95-b129-700fb75f78df" />
+<img width="1503" height="666" alt="image" src="https://github.com/user-attachments/assets/8cbefaba-00da-443f-aab8-345e2df1ebf6" />
+<img width="1531" height="680" alt="image" src="https://github.com/user-attachments/assets/90664372-3e19-49da-bd79-aa8d18d67de8" />
+
 ## Features
 
 - **Pothole Detection:** Detect potholes in uploaded road images using a pretrained YOLOv8 model.
@@ -119,15 +126,6 @@ Model accuracy and real-world performance have not been established by this proj
 - Priority levels are rule-based estimates rather than verified severity measurements.
 - Inspection records are stored in a local SQLite database.
 - The application is a prototype and has not been validated for operational road maintenance.
-
-## Images
-<img width="1117" height="684" alt="image" src="https://github.com/user-attachments/assets/0a700219-9d41-412f-a730-7770cba809a4" />
-<img width="1190" height="494" alt="image" src="https://github.com/user-attachments/assets/6a857920-6d87-4df9-bd35-d3775963d164" />
-<img width="1495" height="438" alt="image" src="https://github.com/user-attachments/assets/7b600a4c-e1dc-4d95-b129-700fb75f78df" />
-<img width="1503" height="666" alt="image" src="https://github.com/user-attachments/assets/8cbefaba-00da-443f-aab8-345e2df1ebf6" />
-<img width="1531" height="680" alt="image" src="https://github.com/user-attachments/assets/90664372-3e19-49da-bd79-aa8d18d67de8" />
-
-
 
 
 ## Author
